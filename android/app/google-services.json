@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "562715658707",
+    "project_id": "demodezi",
+    "storage_bucket": "demodezi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562715658707:android:9bf43b4c3df06875fb8726",
+        "android_client_info": {
+          "package_name": "com.example.demodezi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562715658707-6q7o0m2uld2aam5anguva59280h8hnil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-8IOLCg0XJslgqkplvvunGTNKoRca9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562715658707-6q7o0m2uld2aam5anguva59280h8hnil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562715658707-5j4kl98cho12v9fajdict5mm6c3rcbvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demodezi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562715658707:android:09cb84ba4283e8e6fb8726",
+        "android_client_info": {
+          "package_name": "com.example.untitled35"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562715658707-f9docqe9kthfc4a6raq6u3se76geh6k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled35",
+            "certificate_hash": "b756be28092d89bddd954035a7289751253ff5a6"
+          }
+        },
+        {
+          "client_id": "562715658707-6q7o0m2uld2aam5anguva59280h8hnil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-8IOLCg0XJslgqkplvvunGTNKoRca9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562715658707-6q7o0m2uld2aam5anguva59280h8hnil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562715658707-5j4kl98cho12v9fajdict5mm6c3rcbvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demodezi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
